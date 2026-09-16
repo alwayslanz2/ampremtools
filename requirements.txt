@@ -1,0 +1,9 @@
+# ForgeMotion CLI — tanpa dependensi eksternal.
+# Seluruh kode memakai pustaka bawaan Python (stdlib):
+#   urllib, json, ssl, re, threading, time, itertools, os, sys
+#
+# Syarat cuma satu: Python 3.7 atau lebih baru.
+# (Di Termux: pkg install python)
+#
+# File ini dibiarkan kosong sengaja — tidak ada yang perlu
+# di-pip install. Kalau suatu saat butuh dependensi, tulis di sini.
